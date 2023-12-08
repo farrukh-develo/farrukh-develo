@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @farrukh-develo
+- 👀 I’m interested in the Fullstack Development (MERN)
+- 📫 How to reach me farrukh@develoitsolutions.com
